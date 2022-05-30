@@ -1,5 +1,5 @@
 # uspppm_competition
-Решения команды ChebaChill на соревновании U.S. Patent Phrase to Phrase Matching
+Решения команды ChebaChill на соревновании U.S. Patent Phrase to Phrase Matching можно найти здесь.
 
 # Соревнование
 Его можно найти по следующей [ссылке](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching).
